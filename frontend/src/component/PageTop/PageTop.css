@@ -1,0 +1,26 @@
+.topFixedPage{
+    background-image: url("../../asset/image/topPage.jpg");
+    min-height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topPageOverlay{
+    position: absolute;
+    min-height: 300px;
+    width: 100%;
+    background: rgba(0,0,0,0.7);
+}
+
+.topPageContent{
+    margin-top: 10rem;
+}
+
+.subtitleContent{
+    font-family: 'raleway', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    font-weight: 600;
+}

@@ -1,0 +1,24 @@
+.bannerContent{
+    margin-top: 7rem;
+}
+
+.courseFullTitle{
+    color: white;
+    font-family: 'raleway', sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.courseSubTitle{
+    color: white;
+    font-family: 'raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.courseDetails{
+    color: white;
+    font-family: 'raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}

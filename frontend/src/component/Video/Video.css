@@ -1,0 +1,17 @@
+.videoCard{
+    box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+    padding: 6rem 3rem;
+    margin: 50px auto;
+    background-color: white;
+}
+
+.playBtn{
+    color: #0073E6;
+    cursor: pointer;
+    font-size: 48px;
+}
+
+.videoDes{
+    font-family: 'raleway', sans-serif;
+    font-size: 16px;
+}

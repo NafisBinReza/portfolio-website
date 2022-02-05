@@ -1,0 +1,49 @@
+.summaryBack{
+    background-image: url("../../asset/image/summaryImage.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.summaryOverlay{
+    min-height: 400px;
+    position: absolute;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.countSection{
+    margin-top: 18%;
+}
+
+.countNumber{
+    color: white;
+    font-family: 'montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+.countTitle{
+    color: white;
+    font-family: 'raleway', sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.cardTitle{
+    font-family: 'raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cardSubTitle{
+    font-family: 'montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.iconBullet{
+    color: #0073E6;
+    font-size: 14px;
+}
